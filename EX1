@@ -1,0 +1,5 @@
+#inlcuude <stdio.h>
+int main(){
+printf("\t\t2025 月\n"):
+printf("日\t一\t二\t三\t四\t五\t六\n"):
+printf("\033[1;34m31"):
